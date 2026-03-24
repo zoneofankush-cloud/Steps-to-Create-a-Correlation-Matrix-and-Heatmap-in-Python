@@ -3,7 +3,7 @@
 **Step 1: Download the Code** Get the complete Python code file **[here](https://github.com/zoneofankush-cloud/Steps-to-Create-a-Correlation-Matrix-and-Heatmap-in-Python/blob/main/Correlation_Matrix.ipynb)
 
 **Step 2: Install Required Libraries**
-#####bOpen your terminal or command prompt and run the following command:
+##### Open your terminal or command prompt and run the following command:
   `pip install pandas yfinance matplotlib seaborn`
 
 **Step 3: Run the File**
