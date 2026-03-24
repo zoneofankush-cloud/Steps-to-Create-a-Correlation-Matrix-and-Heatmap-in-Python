@@ -1,8 +1,6 @@
-## 🚀 How to Run This Project
+## 🚀 Follow these simple steps to generate the correlation matrix on your system:
 
-Follow these simple steps to generate the correlation matrix on your system:
-
-**Step 1: Download the Code** Get the complete Python code file from the link below.
+**Step 1: Download the Code** Get the complete Python code file from here https://github.com/zoneofankush-cloud/Steps-to-Create-a-Correlation-Matrix-and-Heatmap-in-Python/edit/main/README.md#:~:text=Correlation_Matrix-,.,-ipynb.
 
 **Step 2: Install Required Libraries**
 Open your terminal or command prompt and run the following command:
