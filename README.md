@@ -1,8 +1,3 @@
-<img width="1632" height="918" alt="Screenshot 2026-03-24 at 11 55 34 AM" src="https://github.com/user-attachments/assets/d750d5c4-460f-4093-b60f-b090cfbc958c" />
-
-
-
-
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 850px; margin: 0 auto; padding: 30px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #ffffff;">
 
     <h1 style="border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; font-size: 2em; margin-top: 0;">Steps to Create a Correlation Matrix and Heatmap in Python</h1>
